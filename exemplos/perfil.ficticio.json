@@ -1,0 +1,58 @@
+{
+  "versao": 1,
+  "pessoa": {
+    "nome": "Joana Ribeiro",
+    "cidade": "Curitiba, PR",
+    "email": "joana@example.com",
+    "telefone": "",
+    "linkedin": "https://www.linkedin.com/in/exemplo-ficticio/",
+    "portfolio": "https://example.com/portfolio"
+  },
+  "objetivo": {
+    "cargos": ["Desenvolvedora de Automação Júnior", "Desenvolvedora de IA Aplicada"],
+    "foco": ["automação", "dashboards", "IA aplicada"],
+    "senioridades": ["júnior"],
+    "modelos": ["remoto", "híbrido"],
+    "localidades_presenciais": ["Curitiba, PR"],
+    "contratos": ["CLT", "PJ"],
+    "pretensao": { "CLT": 6000, "PJ": 10000 },
+    "limite_candidaturas_por_rodada": 5
+  },
+  "resumo": "Desenvolvedora com foco em automação de processos e dashboards. Experiência com Node.js, HTML, SQL e integração de APIs, usando IA como apoio ao desenvolvimento. Busca aplicar essas competências a produtos e operações com dados.",
+  "competencias": [
+    { "nome": "Node.js", "aliases": ["NodeJS"], "confirmado": true, "evidencia": "Projeto demonstrativo de dashboard operacional." },
+    { "nome": "HTML", "aliases": ["HTML5"], "confirmado": true, "evidencia": "Interface do dashboard demonstrativo." },
+    { "nome": "SQL", "aliases": [], "confirmado": true, "evidencia": "Consultas usadas no painel de indicadores." },
+    { "nome": "APIs REST", "aliases": ["REST"], "confirmado": true, "evidencia": "Integração do projeto de atendimento." },
+    { "nome": "Python", "aliases": [], "confirmado": true, "evidencia": "Rotina de consolidação de arquivos." },
+    { "nome": "Kubernetes", "aliases": ["K8s"], "confirmado": false, "evidencia": "Interesse de estudo; sem experiência confirmada." }
+  ],
+  "experiencias": [
+    {
+      "empresa": "Empresa Exemplo (fictícia)",
+      "cargo": "Desenvolvedora de Automação Júnior",
+      "inicio": "2025-03",
+      "fim": "",
+      "atual": true,
+      "realizacoes": [
+        "Desenvolvimento de dashboards em Node.js e HTML para acompanhamento de indicadores operacionais.",
+        "Automação da consolidação de arquivos e integração de dados por APIs REST.",
+        "Construção de consultas SQL e validação de dados para relatórios."
+      ]
+    }
+  ],
+  "projetos": [
+    {
+      "nome": "Painel de operação (demonstração fictícia)",
+      "descricao": "Dashboard com filtros por período e atualização de indicadores por integração de API.",
+      "tecnologias": ["Node.js", "HTML", "SQL", "APIs REST"],
+      "resultado": "Centralização das informações em uma interface de consulta.",
+      "url": "https://example.com/projeto"
+    }
+  ],
+  "formacao": [
+    { "instituicao": "Instituição Exemplo (fictícia)", "curso": "Análise e Desenvolvimento de Sistemas", "grau": "Tecnólogo", "inicio": "2023-02", "fim": "2025-12", "situacao": "Concluído" }
+  ],
+  "idiomas": [{ "idioma": "Inglês", "nivel": "Intermediário" }],
+  "pendencias": ["Confirmar eventual experiência profissional com Kubernetes antes de utilizá-lo em candidaturas."]
+}

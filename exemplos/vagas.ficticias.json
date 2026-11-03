@@ -1,0 +1,53 @@
+[
+  {
+    "id_externo": "demo-automacao-001",
+    "empresa": "Empresa Aurora (fictícia)",
+    "cargo": "Desenvolvedora de Automação Júnior",
+    "url": "https://example.com/vagas/automacao-001",
+    "status": "aberta",
+    "verificada_em": "2026-11-03",
+    "modelo": "remoto",
+    "localidade": "Brasil",
+    "contrato": "CLT",
+    "senioridade": "júnior",
+    "areas": ["automação", "dashboards"],
+    "requisitos": ["Node.js", "SQL", "APIs REST"],
+    "desejaveis": ["Python"],
+    "salario_max": 7000,
+    "observacoes": "Exemplo fictício; não existe candidatura real nesta URL."
+  },
+  {
+    "id_externo": "demo-senior-002",
+    "empresa": "Empresa Horizonte (fictícia)",
+    "cargo": "Engenheira de Plataforma Sênior",
+    "url": "https://example.com/vagas/plataforma-002",
+    "status": "aberta",
+    "verificada_em": "2026-11-03",
+    "modelo": "presencial",
+    "localidade": "Recife, PE",
+    "contrato": "CLT",
+    "senioridade": "sênior",
+    "areas": ["infraestrutura"],
+    "requisitos": ["Kubernetes", "Terraform"],
+    "desejaveis": [],
+    "salario_max": 12000,
+    "observacoes": "Exemplo de vaga com incompatibilidades; não se candidatar."
+  },
+  {
+    "id_externo": "demo-encerrada-003",
+    "empresa": "Empresa Ponto (fictícia)",
+    "cargo": "Desenvolvedora Node.js Júnior",
+    "url": "https://example.com/vagas/node-003",
+    "status": "encerrada",
+    "verificada_em": "2026-11-03",
+    "modelo": "remoto",
+    "localidade": "Brasil",
+    "contrato": "PJ",
+    "senioridade": "júnior",
+    "areas": ["dashboards"],
+    "requisitos": ["Node.js", "HTML"],
+    "desejaveis": [],
+    "salario_max": null,
+    "observacoes": "Demonstra que boa correspondência técnica não reabre vaga encerrada."
+  }
+]

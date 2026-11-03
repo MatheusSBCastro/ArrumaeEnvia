@@ -1,0 +1,21 @@
+{
+  "versao": 1,
+  "pessoa": { "nome": "", "cidade": "", "email": "", "telefone": "", "linkedin": "", "portfolio": "" },
+  "objetivo": {
+    "cargos": [],
+    "foco": [],
+    "senioridades": [],
+    "modelos": [],
+    "localidades_presenciais": [],
+    "contratos": [],
+    "pretensao": { "CLT": null, "PJ": null },
+    "limite_candidaturas_por_rodada": 5
+  },
+  "resumo": "",
+  "competencias": [],
+  "experiencias": [],
+  "projetos": [],
+  "formacao": [],
+  "idiomas": [],
+  "pendencias": []
+}

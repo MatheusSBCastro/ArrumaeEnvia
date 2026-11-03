@@ -1,0 +1,4 @@
+interface:
+  display_name: "Arruma e Envia"
+  short_description: "Currículo, LinkedIn e candidaturas com IA"
+  default_prompt: "Use $arruma-envia para melhorar meu perfil profissional e conduzir a etapa de busca e candidaturas que eu autorizar."

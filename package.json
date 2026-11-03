@@ -1,0 +1,18 @@
+{
+  "name": "arruma-e-envia",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Currículo, LinkedIn e candidaturas com IA, com fatos confirmados e acompanhamento local.",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "iniciar": "node scripts/arruma-envia.mjs iniciar",
+    "validar": "node scripts/arruma-envia.mjs validar",
+    "curriculo": "node scripts/arruma-envia.mjs curriculo",
+    "ranquear": "node scripts/arruma-envia.mjs ranquear",
+    "status": "node scripts/arruma-envia.mjs status",
+    "demo": "node scripts/arruma-envia.mjs demo",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
