@@ -1,5 +1,7 @@
 # Arruma e Envia
 
+[![Verificar projeto](https://github.com/MatheusSBCastro/ArrumaeEnvia/actions/workflows/ci.yml/badge.svg)](https://github.com/MatheusSBCastro/ArrumaeEnvia/actions/workflows/ci.yml)
+
 **Seu trabalho bem explicado. Vagas que fazem sentido. Candidaturas acompanhadas.**
 
 Um projeto em português para usar IA na melhoria do currículo e do LinkedIn, encontrar oportunidades compatíveis e conduzir candidaturas pelo navegador conectado ao agente.
