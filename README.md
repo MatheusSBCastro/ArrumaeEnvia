@@ -2,11 +2,9 @@
 
 [![Verificar projeto](https://github.com/MatheusSBCastro/ArrumaeEnvia/actions/workflows/ci.yml/badge.svg)](https://github.com/MatheusSBCastro/ArrumaeEnvia/actions/workflows/ci.yml)
 
-**Seu trabalho bem explicado. Vagas que fazem sentido. Candidaturas acompanhadas.**
+Use um agente de IA para revisar seu currículo e LinkedIn, pesquisar vagas compatíveis e preencher candidaturas no navegador. As ferramentas locais ajudam a organizar as oportunidades e acompanhar o que foi enviado. Os materiais estão em português.
 
-Um projeto em português para usar IA na melhoria do currículo e do LinkedIn, encontrar oportunidades compatíveis e conduzir candidaturas pelo navegador conectado ao agente.
-
-Nasceu de um fluxo real: transformar descrições informais de experiência em um perfil profissional claro, criar um currículo, selecionar vagas e preencher candidaturas com acompanhamento do resultado. O repositório compartilha o método e as ferramentas; todos os perfis e anúncios de demonstração são fictícios.
+O projeto nasceu de um fluxo real: partir de uma descrição informal de experiência, preparar o currículo, selecionar vagas e acompanhar as candidaturas. Você pode repetir esse processo com os prompts e scripts do repositório. Todos os perfis e anúncios usados na demonstração são fictícios.
 
 ## Comece pelo caminho mais simples
 
@@ -23,7 +21,7 @@ Nasceu de um fluxo real: transformar descrições informais de experiência em u
 
 A skill está em [`.agents/skills/arruma-envia/SKILL.md`](.agents/skills/arruma-envia/SKILL.md). No Codex, use `$arruma-envia`. Se ela não aparecer, peça ao agente para ler esse arquivo diretamente; confira também as [instruções oficiais de skills](https://learn.chatgpt.com/docs/build-skills). A localização `.agents/skills` é reconhecida no escopo do repositório. Mantenha a pasta do projeto inteira, pois as ferramentas locais ficam em `scripts/`.
 
-**Navegação e envio dependem das ferramentas e permissões disponíveis na sua instalação.** Conecte o navegador usando a opção oferecida pelo seu ambiente e faça o login diretamente no portal. Sem controle de navegador, o agente ainda pode preparar documentos, selecionar links e entregar textos para você enviar manualmente. O projeto não instala uma extensão, não inclui um robô universal e não garante acesso automático a todos os sites.
+Para navegar e enviar candidaturas, o agente precisa das ferramentas e permissões da sua instalação. Conecte o navegador pela opção do seu ambiente e faça login diretamente no portal. Se o agente não puder controlar o navegador, ele ainda pode preparar documentos, selecionar links e escrever os textos para você enviar. O repositório não instala extensão nem um robô universal; o acesso varia conforme o site.
 
 ## O que está pronto
 
